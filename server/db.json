@@ -1,4 +1,6 @@
-[
-  { "id": "1", "titulo": "Entrega do projeto na próxima aula" },
-  { "id": "2", "titulo": "Laboratório: praticar GET, POST, PATCH e DELETE" }
-]
+{
+  "avisos": [
+    { "id": "1", "titulo": "Entrega do projeto na próxima aula" },
+    { "id": "2", "titulo": "Laboratório: praticar GET, POST, PATCH e DELETE" }
+  ]
+}
